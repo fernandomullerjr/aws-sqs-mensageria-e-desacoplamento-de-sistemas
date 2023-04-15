@@ -43,3 +43,7 @@
 [06:15] Se eu executar o comando AWS sqs list-queues novamente, vou ficar com uma tela preta, veja que as filas já não apareceram. Se eu apertar q agora vejo a mensagem dizendo que um erro ocorreu, que o token de segurança incluído na requisição é inválido.
 
 [06:34] Para você configurar o usuário no AWS é só seguir esses passos, configura o access key id e o secret access key e está tudo feito, estamos prontos para começar a usar a linha de comando.
+
+
+
+Continua em
